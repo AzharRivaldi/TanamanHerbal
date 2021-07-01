@@ -7,7 +7,7 @@ https://youtu.be/Yl9s78-IFfE
 # Tutorial Build with Step by Step
 https://rivaldi48.blogspot.com/2019/06/Tutorial-Membuat-Aplikasi-Tanaman-Herbal-dengan-Android-Studio.html
 
-<img src="https://1.bp.blogspot.com/-fITb7vHhB8E/YNQEnW7TsXI/AAAAAAAAH_Q/RnsTVvdS-qwcLg1dPdYzM7gQ_8EdYmNoACLcBGAsYHQ/s1280/Tutorial%2BMembuat%2BAplikasi%2BPencarian%2BTempat%2BPelayanan%2BKesehatan%2Bdengan%2BAndroid%2BStudio.png" data-canonical-src="https://1.bp.blogspot.com/-fITb7vHhB8E/YNQEnW7TsXI/AAAAAAAAH_Q/RnsTVvdS-qwcLg1dPdYzM7gQ_8EdYmNoACLcBGAsYHQ/s1280/Tutorial%2BMembuat%2BAplikasi%2BPencarian%2BTempat%2BPelayanan%2BKesehatan%2Bdengan%2BAndroid%2BStudio.png" style="max-width:100%;">
+<img src="https://1.bp.blogspot.com/-BfcSJz4FfWk/YN1AUql0W3I/AAAAAAAAH_s/U2oJpeE7FcoVKTv_mJaia4MF7bxMEpFUQCLcBGAsYHQ/s2048/Tutorial%2BMembuat%2BAplikasi%2BTanaman%2BHerbal%2Bdengan%2BAndroid%2BStudio.png" data-canonical-src="https://1.bp.blogspot.com/-BfcSJz4FfWk/YN1AUql0W3I/AAAAAAAAH_s/U2oJpeE7FcoVKTv_mJaia4MF7bxMEpFUQCLcBGAsYHQ/s2048/Tutorial%2BMembuat%2BAplikasi%2BTanaman%2BHerbal%2Bdengan%2BAndroid%2BStudio.png" style="max-width:100%;">
 
 *****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
